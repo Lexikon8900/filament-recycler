@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "SamacSys_Parts") (type "KiCad") (uri "C:/Users/lucam/Downloads/SamacSys_Parts.kicad_sym") (options "") (descr ""))
+	(lib (name "OMNI-UNI-34-25") (type "KiCad") (uri "C:/Users/lucam/Downloads/OMNI-UNI-34-25.kicad_sym") (options "") (descr ""))
+)
